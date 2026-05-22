@@ -1,2 +1,6 @@
 print("A")
 print("B")
+print("C")
+print("D")
+print("name")
+print("age")
